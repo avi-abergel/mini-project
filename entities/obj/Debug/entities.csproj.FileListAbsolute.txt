@@ -1,0 +1,11 @@
+C:\Users\97252\source\repos\miniProject\entities\obj\Debug\entities.csproj.AssemblyReference.cache
+C:\Users\97252\source\repos\miniProject\entities\obj\Debug\entities.csproj.CoreCompileInputs.cache
+C:\Users\97252\source\repos\miniProject\entities\bin\Debug\entities.dll
+C:\Users\97252\source\repos\miniProject\entities\bin\Debug\entities.pdb
+C:\Users\97252\source\repos\miniProject\entities\bin\Debug\DAL.dll
+C:\Users\97252\source\repos\miniProject\entities\bin\Debug\Model.dll
+C:\Users\97252\source\repos\miniProject\entities\bin\Debug\DAL.pdb
+C:\Users\97252\source\repos\miniProject\entities\bin\Debug\Model.pdb
+C:\Users\97252\source\repos\miniProject\entities\obj\Debug\entities.csproj.CopyComplete
+C:\Users\97252\source\repos\miniProject\entities\obj\Debug\entities.dll
+C:\Users\97252\source\repos\miniProject\entities\obj\Debug\entities.pdb
