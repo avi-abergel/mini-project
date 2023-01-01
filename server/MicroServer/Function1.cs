@@ -50,7 +50,7 @@ namespace MicroServer
                     {
                         reqBody = await new StreamReader(req.Body).ReadToEndAsync();
                         Product product = System.Text.Json.JsonSerializer.Deserialize<Product>(reqBody);
-                        MainManager.Instance.products.updateProduct(int.Parse(idNumber), product.ProductName, product.categoryID, product.UnitsInStock);
+                        MainManager.Instance.products.updateProduct(product.ProductID, product.ProductName, product.categoryID, product.UnitsInStock);
                     }
                     catch (Exception ex) { Console.WriteLine(ex); }
                     return new OkResult();
