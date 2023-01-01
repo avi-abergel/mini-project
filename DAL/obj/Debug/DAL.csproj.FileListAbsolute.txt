@@ -1,9 +1,0 @@
-C:\Users\97252\source\repos\miniProject\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
-C:\Users\97252\source\repos\miniProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-C:\Users\97252\source\repos\miniProject\DAL\bin\Debug\DAL.dll
-C:\Users\97252\source\repos\miniProject\DAL\bin\Debug\DAL.pdb
-C:\Users\97252\source\repos\miniProject\DAL\bin\Debug\Model.dll
-C:\Users\97252\source\repos\miniProject\DAL\bin\Debug\Model.pdb
-C:\Users\97252\source\repos\miniProject\DAL\obj\Debug\DAL.csproj.CopyComplete
-C:\Users\97252\source\repos\miniProject\DAL\obj\Debug\DAL.dll
-C:\Users\97252\source\repos\miniProject\DAL\obj\Debug\DAL.pdb
